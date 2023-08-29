@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 309a4dea468352a40b5d5ddeea199cca, type: 3}
+  m_Name: CastleTower
+  m_EditorClassIdentifier: 
+  displayName: Castle Tower
+  cost: 250
+  range: 2
+  icon: {fileID: 21300000, guid: 003ca52ea0babab4887cf7da1fc689fc, type: 3}
+  spawnPrefab: {fileID: 6216836104154368547, guid: 10767ea24adca104abe03675b6da002a, type: 3}
